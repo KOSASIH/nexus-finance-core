@@ -4,6 +4,10 @@
 
 The Nexus Finance Core is a decentralized finance (DeFi) platform designed to facilitate lending, borrowing, staking, and KYC verification. The architecture is modular, allowing for easy integration of new features and services.
 
+# Diagram
+
+![Nexus Finance Diagram](nexus-finance.jpeg) 
+
 ## Components
 
 ### 1. Smart Contracts
