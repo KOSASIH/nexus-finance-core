@@ -287,7 +287,6 @@
 [![The International Youth Awards](https://img.shields.io/badge/International%20Youth%20Awards-FF5722?style=for-the-badge&logo=youth&logoColor=white)](https://www.internationalyouthawards.org/)
 [![The Global Business Excellence Awards](https://img.shields.io/badge/Global%20Business%20Excellence%20Awards-9C27B0?style=for-the-badge&logo=business&logoColor=white)](https://www.business-excellence-awards.com/)
 [![The International Corporate Social Responsibility (CSR) Awards](https://img.shields.io/badge/CSR%20Awards-3CCBDA?style=for-the-badge&logo=csr&logoColor=white)](https://www.csr-awards.com/)
-[![The Global Sustainability Awards](https://img.shields.io/badge/Global%20Sustainability%20Awards-FFB300?style=for-the-badge&logo=sustainability&logoColor=white)](https://www.globalsustainabilityawards.com/)
 [![The International Green Awards](https://img.shields.io/badge/International%20Green%20Awards-00BFFF?style=for-the-badge&logo=green&logoColor=white)](https://www.greenawards.com/)
 [![The Global Innovation Forum Awards](https://img.shields.io/badge/Global%20Innovation%20Forum%20Awards-FF9800?style=for-the-badge&logo=innovation&logoColor=white)](https://www.globalinnovationforum.org/)
 
