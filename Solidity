@@ -1,0 +1,133 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+interface IERC20 {
+    function totalSupply() external view returns (uint256);
+    function balanceOf(address account) external view returns (uint256);
+    function transfer(address recipient, uint256 amount) external returns (bool);
+    function allowance(address owner, address spender) external view returns (uint256);
+    function approve(address spender, uint256 amount) external returns (bool);
+    function transferFrom(address sender, address recipient, uint256 amount) external returns (bool);
+}
+
+contract NexusFinanceCore {
+    IERC20 public token;
+    address public admin;
+
+    // KYC Mapping
+    mapping(address => bool) public isKYCApproved;
+
+    // Lending/Borrowing mappings
+    mapping(address => uint256) public deposits;
+    mapping(address => uint256) public borrowings;
+
+    // Staking mappings
+    mapping(address => uint256) public stakes;
+    mapping(address => uint256) public rewards;
+
+    // Governance structures
+    struct Proposal {
+        string description;
+        uint256 voteCount;
+        bool executed;
+    }
+    Proposal[] public proposals;
+    mapping(uint256 => mapping(address => bool)) public votes;
+    mapping(address => uint256) public governanceTokens;
+
+    // Constructor
+    constructor(address _tokenAddress) {
+        token = IERC20(_tokenAddress);
+        admin = msg.sender;
+    }
+
+    // **KYC Functions**
+    function approveKYC(address _user) external {
+        require(msg.sender == admin, "Only admin can approve");
+        isKYCApproved[_user] = true;
+    }
+
+    function revokeKYC(address _user) external {
+        require(msg.sender == admin, "Only admin can revoke");
+        isKYCApproved[_user] = false;
+    }
+
+    function checkKYC(address _user) public view returns (bool) {
+        return isKYCApproved[_user];
+    }
+
+    // **Lending/Borrowing Functions**
+    function deposit(uint256 _amount) external {
+        require(isKYCApproved[msg.sender], "User not KYC approved");
+        token.transferFrom(msg.sender, address(this), _amount);
+        deposits[msg.sender] += _amount;
+    }
+
+    function borrow(uint256 _amount) external {
+        require(isKYCApproved[msg.sender], "User not KYC approved");
+        require(deposits[msg.sender] >= _amount, "Insufficient collateral");
+        token.transfer(msg.sender, _amount);
+        borrowings[msg.sender] += _amount;
+    }
+
+    function repay(uint256 _amount) external {
+        require(borrowings[msg.sender] >= _amount, "Overpaying");
+        token.transferFrom(msg.sender, address(this), _amount);
+        borrowings[msg.sender] -= _amount;
+    }
+
+    // **Staking Functions**
+    function stake(uint256 _amount) external {
+        require(isKYCApproved[msg.sender], "User not KYC approved");
+        token.transferFrom(msg.sender, address(this), _amount);
+        stakes[msg.sender] += _amount;
+    }
+
+    function unstake(uint256 _amount) external {
+        require(stakes[msg.sender] >= _amount, "Insufficient stake");
+        token.transfer(msg.sender, _amount);
+        stakes[msg.sender] -= _amount;
+    }
+
+    function calculateRewards(address _user) public view returns (uint256) {
+        return stakes[_user] / 10; // Example: 10% of the staked amount as reward
+    }
+
+    function claimRewards() external {
+        uint256 reward = calculateRewards(msg.sender);
+        rewards[msg.sender] += reward;
+        token.transfer(msg.sender, reward);
+    }
+
+    // **Governance Functions**
+    function createProposal(string calldata _description) external {
+        proposals.push(Proposal({
+            description: _description,
+            voteCount: 0,
+            executed: false
+        }));
+    }
+
+    function voteOnProposal(uint256 _proposalId) external {
+        require(governanceTokens[msg.sender] > 0, "Must hold governance token");
+        require(!votes[_proposalId][msg.sender], "Already voted");
+
+        proposals[_proposalId].voteCount += 1;
+        votes[_proposalId][msg.sender] = true;
+    }
+
+    function executeProposal(uint256 _proposalId) external {
+        Proposal storage proposal = proposals[_proposalId];
+        require(proposal.voteCount > 1, "Not enough votes"); // Example threshold of 2 votes
+        require(!proposal.executed, "Already executed");
+
+        proposal.executed = true;
+        // Execute proposal logic here
+    }
+
+    // Utility function to add governance tokens for testing
+    function addGovernanceTokens(address _user, uint256 _amount) external {
+        require(msg.sender == admin, "Only admin can add governance tokens");
+        governanceTokens[_user] += _amount;
+    }
+}
