@@ -1,3 +1,12 @@
+[![World Bank](https://img.shields.io/badge/World%20Bank-0072B1?style=for-the-badge&logo=worldbank&logoColor=white)](https://www.worldbank.org/)
+[![International Monetary Fund](https://img.shields.io/badge/IMF-8B1F3D?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
+[![Bank for International Settlements](https://img.shields.io/badge/BIS-4B8B3B?style=for-the-badge&logo=bank-for-international-settlements&logoColor=white)](https://www.bis.org/)
+[![Asian Development Bank](https://img.shields.io/badge/ADB-0072B1?style=for-the-badge&logo=asian-development-bank&logoColor=white)](https://www.adb.org/)
+[![European Central Bank](https://img.shields.io/badge/ECB-003DA5?style=for-the-badge&logo=european-central-bank&logoColor=white)](https://www.ecb.europa.eu/)
+[![African Development Bank](https://img.shields.io/badge/AfDB-FFB300?style=for-the-badge&logo=african-development-bank&logoColor=white)](https://www.afdb.org/)
+[![Inter-American Development Bank](https://img.shields.io/badge/IADB-0072B1?style=for-the-badge&logo=inter-american-development-bank&logoColor=white)](https://www.iadb.org/)
+[![Organisation for Economic Co-operation and Development](https://img.shields.io/badge/OECD-2E6DA4?style=for-the-badge&logo=oecd&logoColor=white)](https://www.oecd.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # nexus-finance-core
