@@ -250,6 +250,16 @@
 [![Financial Planning Excellence Award](https://img.shields.io/badge/Financial%20Planning%20Excellence%20Award-3CCBDA?style=for-the-badge&logo=fpa&logoColor=white)](https://www.onefpa.org/)
 [![Best Financial Advisor Award](https://img.shields.io/badge/Best%20Financial%20Advisor%20Award-FFB300?style=for-the-badge&logo=advisor&logoColor=white)](https://www.napfa.org/)
 [![Top 100 Financial Influencers](https://img.shields.io/badge/Top%20100%20Financial%20Influencers-00BFFF?style=for-the-badge&logo=influencer&logoColor=white)](https://www.influencive.com/)
+[![Nobel Prize in Economic Sciences](https://img.shields.io/badge/Nobel%20Prize%20in%20Economic%20Sciences-FFD700?style=for-the-badge&logo=nobel&logoColor=white)](https://www.nobelprize.org/prizes/economic-sciences/)
+[![World Economic Forum Global Shaper](https://img.shields.io/badge/World%20Economic%20Forum%20Global%20Shaper-4CAF50?style=for-the-badge&logo=wef&logoColor=white)](https://www.weforum.org/global-shapers/)
+[![UN Global Compact](https://img.shields.io/badge/UN%20Global%20Compact-FF9800?style=for-the-badge&logo=un&logoColor=white)](https://www.unglobalcompact.org/)
+[![International Finance Corporation (IFC) Award](https://img.shields.io/badge/IFC%20Award-3F51B5?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
+[![Global Impact Award](https://img.shields.io/badge/Global%20Impact%20Award-00BFFF?style=for-the-badge&logo=impact&logoColor=white)](https://www.globalimpactawards.org/)
+[![Sustainable Development Goals (SDG) Award](https://img.shields.io/badge/SDG%20Award-FF5722?style=for-the-badge&logo=sdg&logoColor=white)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+[![International Business Awards](https://img.shields.io/badge/International%20Business%20Awards-9C27B0?style=for-the-badge&logo=business&logoColor=white)](https://stevieawards.com/iba)
+[![The Queen's Awards for Enterprise](https://img.shields.io/badge/The%20Queen's%20Awards%20for%20Enterprise-3CCBDA?style=for-the-badge&logo=queen&logoColor=white)](https://www.gov.uk/queens-awards-for-enterprise)
+[![Global Good Awards](https://img.shields.io/badge/Global%20Good%20Awards-FFB300?style=for-the-badge&logo=good&logoColor=white)](https://globalgoodawards.co.uk/)
+[![The Ashden Awards](https://img.shields.io/badge/The%20Ashden%20Awards-00BFFF?style=for-the-badge&logo=ashden&logoColor=white)](https://www.ashden.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
