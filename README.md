@@ -201,6 +201,16 @@
 [![PRI Signatory](https://img.shields.io/badge/PRI%20Signatory-00BFFF?style=for-the-badge&logo=pri&logoColor=white)](https://www.unpri.org/)
 [![GARP FRM Certified](https://img.shields.io/badge/GARP%20FRM%20Certified-FFB300?style=for-the-badge&logo=garp&logoColor=white)](https://www.garp.org/frm)
 [![AIMA Member](https://img.shields.io/badge/AIMA%20Member-FF9800?style=for-the-badge&logo=aima&logoColor=white)](https://www.aima.org/)
+[![CFA Institute Investment Foundations](https://img.shields.io/badge/CFA%20Institute%20Investment%20Foundations-3F51B5?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/programs/investment-foundations)
+[![Certified Financial Planner](https://img.shields.io/badge/Certified%20Financial%20Planner-FF5722?style=for-the-badge&logo=cfp&logoColor=white)](https://www.cfp.net/)
+[![Chartered Financial Analyst](https://img.shields.io/badge/Chartered%20Financial%20Analyst-4CAF50?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![Certified Management Accountant](https://img.shields.io/badge/Certified%20Management%20Accountant-00BFFF?style=for-the-badge&logo=cma&logoColor=white)](https://www.imanet.org/cma-certification)
+[![Financial Risk Manager](https://img.shields.io/badge/Financial%20Risk%20Manager-FF9800?style=for-the-badge&logo=frm&logoColor=white)](https://www.garp.org/frm)
+[![Certified Internal Auditor](https://img.shields.io/badge/Certified%20Internal%20Auditor-9C27B0?style=for-the-badge&logo=cia&logoColor=white)](https://www.theiia.org/)
+[![Certified Fraud Examiner](https://img.shields.io/badge/Certified%20Fraud%20Examiner-3CCBDA?style=for-the-badge&logo=cfe&logoColor=white)](https://www.acfe.com/)
+[![Financial Planning Association Member](https://img.shields.io/badge/Financial%20Planning%20Association%20Member-FFB300?style=for-the-badge&logo=fpa&logoColor=white)](https://www.onefpa.org/)
+[![Institute of Management Accountants](https://img.shields.io/badge/Institute%20of%20Management%20Accountants-00BFFF?style=for-the-badge&logo=ima&logoColor=white)](https://www.imanet.org/)
+[![Global Association of Risk Professionals](https://img.shields.io/badge/Global%20Association%20of%20Risk%20Professionals-FF5722?style=for-the-badge&logo=garp&logoColor=white)](https://www.garp.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
