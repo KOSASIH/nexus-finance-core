@@ -16,6 +16,16 @@
 [![International Development Association](https://img.shields.io/badge/IDA-0072B1?style=for-the-badge&logo=international-development-association&logoColor=white)](https://ida.worldbank.org/)
 [![United Nations Development Programme](https://img.shields.io/badge/UNDP-0072B1?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.undp.org/)
 [![International Organization for Migration](https://img.shields.io/badge/IOM-0072B1?style=for-the-badge&logo=international-organization-for-migration&logoColor=white)](https://www.iom.int/)
+[![International Monetary and Financial Committee](https://img.shields.io/badge/IMFC-0072B1?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/en/Committees/IMFC)
+[![United Nations Economic Commission for Africa](https://img.shields.io/badge/UNECA-0072B1?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.uneca.org/)
+[![United Nations Economic Commission for Europe](https://img.shields.io/badge/UNECE-0072B1?style=for-the-badge&logo=united-nations&logoColor=white)](https://unece.org/)
+[![United Nations Economic and Social Commission for Asia and the Pacific](https://img.shields.io/badge/UNESCAP-0072B1?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unescap.org/)
+[![United Nations Economic and Social Commission for Western Asia](https://img.shields.io/badge/UNESCWA-0072B1?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unescwa.org/)
+[![International Development Bank](https://img.shields.io/badge/IDB-0072B1?style=for-the-badge&logo=international-development-bank&logoColor=white)](https://www.idb.org/)
+[![Green Climate Fund](https://img.shields.io/badge/GCF-0072B1?style=for-the-badge&logo=green-climate-fund&logoColor=white)](https://www.greenclimate.fund/)
+[![International Renewable Energy Agency](https://img.shields.io/badge/IRENA-0072B1?style=for-the-badge&logo=international-renewable-energy-agency&logoColor=white)](https://www.irena.org/)
+[![Global Environment Facility](https://img.shields.io/badge/GEF-0072B1?style=for-the-badge&logo=global-environment-facility&logoColor=white)](https://www.thegef.org/)
+[![International Labour Organization](https://img.shields.io/badge/ILO-0072B1?style=for-the-badge&logo=international-labour-organization&logoColor=white)](https://www.ilo.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
