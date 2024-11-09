@@ -191,6 +191,16 @@
 [![IMF Member](https://img.shields.io/badge/IMF%20Member-3CCBDA?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
 [![Fitch Ratings Certified](https://img.shields.io/badge/Fitch%20Ratings%20Certified-FFB300?style=for-the-badge&logo=fitch&logoColor=white)](https://www.fitchratings.com/)
 [![Moody's Certified](https://img.shields.io/badge/Moody's%20Certified-FF5722?style=for-the-badge&logo=moody&logoColor=white)](https://www.moodys.com/)
+[![CIMA Member](https://img.shields.io/badge/CIMA%20Member-4CAF50?style=for-the-badge&logo=cima&logoColor=white)](https://www.cimaglobal.com/)
+[![AICPA Member](https://img.shields.io/badge/AICPA%20Member-00BFFF?style=for-the-badge&logo=aicpa&logoColor=white)](https://www.aicpa.org/)
+[![CFA Charterholder](https://img.shields.io/badge/CFA%20Charterholder-3F51B5?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![FRM Certified](https://img.shields.io/badge/FRM%20Certified-FF9800?style=for-the-badge&logo=frm&logoColor=white)](https://www.garp.org/frm)
+[![CAIA Member](https://img.shields.io/badge/CAIA%20Member-9C27B0?style=for-the-badge&logo=caia&logoColor=white)](https://caia.org/)
+[![CFA Society Member](https://img.shields.io/badge/CFA%20Society%20Member-FF5722?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/societies)
+[![SASB Member](https://img.shields.io/badge/SASB%20Member-3CCBDA?style=for-the-badge&logo=sasb&logoColor=white)](https://www.sasb.org/)
+[![PRI Signatory](https://img.shields.io/badge/PRI%20Signatory-00BFFF?style=for-the-badge&logo=pri&logoColor=white)](https://www.unpri.org/)
+[![GARP FRM Certified](https://img.shields.io/badge/GARP%20FRM%20Certified-FFB300?style=for-the-badge&logo=garp&logoColor=white)](https://www.garp.org/frm)
+[![AIMA Member](https://img.shields.io/badge/AIMA%20Member-FF9800?style=for-the-badge&logo=aima&logoColor=white)](https://www.aima.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
