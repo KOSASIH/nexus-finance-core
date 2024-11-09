@@ -73,6 +73,16 @@
 [![Digital Currency Initiative Certified](https://img.shields.io/badge/DCI%20Certified-FF4081?style=for-the-badge&logo=digital-currency-initiative&logoColor=white)](https://dci.mit.edu/)
 [![Crypto Valley Association Certified](https://img.shields.io/badge/CVA%20Certified-8BC34A?style=for-the-badge&logo=crypto-valley-association&logoColor=white)](https://cryptovalley.swiss/)
 [![Global Digital Finance Certified](https://img.shields.io/badge/GDF%20Certified-00BCD4?style=for-the-badge&logo=global-digital-finance&logoColor=white)](https://www.gdf.io/)
+[![Financial Technology Regulatory Sandbox Certified](https://img.shields.io/badge/Regulatory%20Sandbox%20Certified-FF5722?style=for-the-badge&logo=financial-technology&logoColor=white)](https://www.fintechsandbox.org/)
+[![FinTech Australia Certified](https://img.shields.io/badge/FinTech%20Australia%20Certified-0072B1?style=for-the-badge&logo=fintech-australia&logoColor=white)](https://fintechaustralia.org.au/)
+[![FinTech Global Certified](https://img.shields.io/badge/FinTech%20Global%20Certified-4CAF50?style=for-the-badge&logo=fintech-global&logoColor=white)](https://fintech.global/)
+[![FinTech Connect Certified](https://img.shields.io/badge/FinTech%20Connect%20Certified-3F51B5?style=for-the-badge&logo=fintech-connect&logoColor=white)](https://www.fintechconnect.com/)
+[![FinTech Circle Certified](https://img.shields.io/badge/FinTech%20Circle%20Certified-FF9800?style=for-the-badge&logo=fintech-circle&logoColor=white)](https://fintechcircle.com/)
+[![FinTech Innovation Hub Certified](https://img.shields.io/badge/FinTech%20Innovation%20Hub%20Certified-2196F3?style=for-the-badge&logo=fintech-innovation-hub&logoColor=white)](https://www.fintechinnovationhub.com/)
+[![FinTech Scotland Certified](https://img.shields.io/badge/FinTech%20Scotland%20Certified-9C27B0?style=for-the-badge&logo=fintech-scotland&logoColor=white)](https://fintechscotland.com/)
+[![FinTech Belgium Certified](https://img.shields.io/badge/FinTech%20Belgium%20Certified-FF4081?style=for-the-badge&logo=fintech-belgium&logoColor=white)](https://fintechbelgium.com/)
+[![FinTech Singapore Certified](https://img.shields.io/badge/FinTech%20Singapore%20Certified-8BC34A?style=for-the-badge&logo=fintech-singapore&logoColor=white)](https://fintechsg.com/)
+[![FinTech Canada Certified](https://img.shields.io/badge/FinTech%20Canada%20Certified-00BCD4?style=for-the-badge&logo=fintech-canada&logoColor=white)](https://fintechcanada.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
