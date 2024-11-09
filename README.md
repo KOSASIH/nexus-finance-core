@@ -231,6 +231,16 @@
 [![Society of Actuaries](https://img.shields.io/badge/Society%20of%20Actuaries-FFB300?style=for-the-badge&logo=soa&logoColor=white)](https://www.soa.org/)
 [![Chartered Institute of Bankers](https://img.shields.io/badge/Chartered%20Institute%20of%20Bankers-00BFFF?style=for-the-badge&logo=cib&logoColor=white)](https://www.cib.org.uk/)
 [![Institute of Chartered Accountants](https://img.shields.io/badge/Institute%20of%20Chartered%20Accountants-FF9800?style=for-the-badge&logo=icaew&logoColor=white)](https://www.icaew.com/)
+[![Forbes Finance Council](https://img.shields.io/badge/Forbes%20Finance%20Council-4CAF50?style=for-the-badge&logo=forbes&logoColor=white)](https://forbescouncils.com/finance/)
+[![Global Finance Awards](https://img.shields.io/badge/Global%20Finance%20Awards-FF9800?style=for-the-badge&logo=globalfinance&logoColor=white)](https://www.gfmag.com/)
+[![Top 100 Financial Advisors](https://img.shields.io/badge/Top%20100%20Financial%20Advisors-3F51B5?style=for-the-badge&logo=advisor&logoColor=white)](https://www.napfa.org/)
+[![Financial Times Top 100](https://img.shields.io/badge/Financial%20Times%20Top%20100-00BFFF?style=for-the-badge&logo=financialtimes&logoColor=white)](https://www.ft.com/)
+[![CFA Institute Research Challenge](https://img.shields.io/badge/CFA%20Institute%20Research%20Challenge-FF5722?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/en/society-initiatives/research-challenge)
+[![Best Places to Work in Finance](https://img.shields.io/badge/Best%20Places%20to%20Work%20in%20Finance-9C27B0?style=for-the-badge&logo=work&logoColor=white)](https://www.payscale.com/)
+[![Top Financial Influencer](https://img.shields.io/badge/Top%20Financial%20Influencer-3CCBDA?style=for-the-badge&logo=influencer&logoColor=white)](https://www.influencive.com/)
+[![Financial Planning Association's Heart of Financial Planning Award](https://img.shields.io/badge/Heart%20of%20Financial%20Planning%20Award-FFB300?style=for-the-badge&logo=fpa&logoColor=white)](https://www.onefpa.org/)
+[![National Association of Personal Financial Advisors](https://img.shields.io/badge/NAPFA%20Member-00BFFF?style=for-the-badge&logo=napfa&logoColor=white)](https://www.napfa.org/)
+[![Top 50 Women in Finance](https://img.shields.io/badge/Top%2050%20Women%20in%20Finance-FF9800?style=for-the-badge&logo=women&logoColor=white)](https://www.womeninfinance.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
