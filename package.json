@@ -1,0 +1,42 @@
+{
+  "name": "nexus-finance-core",
+  "version": "1.0.0",
+  "description": "A decentralized finance platform for lending, borrowing, staking, and KYC verification.",
+  "main": "src/api/index.js",
+  "scripts": {
+    "start": "node src/api/index.js",
+    "dev": "nodemon src/api/index.js",
+    "test": "mocha test/**/*.test.js",
+    "deploy": "truffle migrate --network development",
+    "seed": "node scripts/seedDatabase.js",
+    "backup": "node scripts/backup.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.6",
+    "nodemailer": "^6.4.11"
+  },
+  "devDependencies": {
+    "truffle": "^5.3.0",
+    "mocha": "^8.2.1",
+    "chai": "^4.3.4",
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOSASIH/nexus-finance-core.git"
+  },
+  "keywords": [
+    "decentralized",
+    "finance",
+    "lending",
+    "borrowing",
+    "staking",
+    "KYC"
+  ],
+  "author": "KOSASIH",
+  "license": "MIT"
+}
