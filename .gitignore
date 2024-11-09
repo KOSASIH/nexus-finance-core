@@ -1,2 +1,25 @@
-# Google App Engine generated folder
-appengine-generated/
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage reports
+coverage/
