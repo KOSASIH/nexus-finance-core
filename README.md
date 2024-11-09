@@ -78,7 +78,6 @@
 [![FinTech Global Certified](https://img.shields.io/badge/FinTech%20Global%20Certified-4CAF50?style=for-the-badge&logo=fintech-global&logoColor=white)](https://fintech.global/)
 [![FinTech Connect Certified](https://img.shields.io/badge/FinTech%20Connect%20Certified-3F51B5?style=for-the-badge&logo=fintech-connect&logoColor=white)](https://www.fintechconnect.com/)
 [![FinTech Circle Certified](https://img.shields.io/badge/FinTech%20Circle%20Certified-FF9800?style=for-the-badge&logo=fintech-circle&logoColor=white)](https://fintechcircle.com/)
-[![FinTech Innovation Hub Certified](https://img.shields.io/badge/FinTech%20Innovation%20Hub%20Certified-2196F3?style=for-the-badge&logo=fintech-innovation-hub&logoColor=white)](https://www.fintechinnovationhub.com/)
 [![FinTech Scotland Certified](https://img.shields.io/badge/FinTech%20Scotland%20Certified-9C27B0?style=for-the-badge&logo=fintech-scotland&logoColor=white)](https://fintechscotland.com/)
 [![FinTech Belgium Certified](https://img.shields.io/badge/FinTech%20Belgium%20Certified-FF4081?style=for-the-badge&logo=fintech-belgium&logoColor=white)](https://fintechbelgium.com/)
 [![FinTech Singapore Certified](https://img.shields.io/badge/FinTech%20Singapore%20Certified-8BC34A?style=for-the-badge&logo=fintech-singapore&logoColor=white)](https://fintechsg.com/)
