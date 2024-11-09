@@ -80,6 +80,18 @@
 [![FinTech Circle Certified](https://img.shields.io/badge/FinTech%20Circle%20Certified-FF9800?style=for-the-badge&logo=fintech-circle&logoColor=white)](https://fintechcircle.com/)
 [![FinTech Scotland Certified](https://img.shields.io/badge/FinTech%20Scotland%20Certified-9C27B0?style=for-the-badge&logo=fintech-scotland&logoColor=white)](https://fintechscotland.com/)
 
+[![Blockchain Research Institute Certified](https://img.shields.io/badge/BRI%20Certified-0072B1?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchainresearchinstitute.org/)
+[![Hyperledger Certified](https://img.shields.io/badge/Hyperledger%20Certified-FF9800?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
+[![Ethereum Foundation Certified](https://img.shields.io/badge/Ethereum%20Foundation%20Certified-4CAF50?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/en/foundation/)
+[![Blockchain Association Certified](https://img.shields.io/badge/Blockchain%20Association%20Certified-3F51B5?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchainassociation.org/)
+[![International Blockchain Association Certified](https://img.shields.io/badge/IBA%20Certified-FF5722?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.internationalblockchainassociation.org/)
+[![Crypto Finance Group Certified](https://img.shields.io/badge/Crypto%20Finance%20Group%20Certified-2196F3?style=for-the-badge&logo=crypto&logoColor=white)](https://cryptofinance.group/)
+[![Blockchain for Social Impact Coalition Certified](https://img.shields.io/badge/BSIC%20Certified-9C27B0?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchainforsocialimpact.org/)
+[![Blockchain in Transport Alliance Certified](https://img.shields.io/badge/BiTA%20Certified-FF4081?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.bita.studio/)
+[![Decentralized Identity Foundation Certified](https://img.shields.io/badge/DIF%20Certified-8BC34A?style=for-the-badge&logo=blockchain&logoColor=white)](https://identity.foundation/)
+[![World Economic Forum Blockchain Certified](https://img.shields.io/badge/WEF%20Blockchain%20Certified-00BCD4?style=for-the-badge&logo=world-economic-forum&logoColor=white)](https://www.weforum.org/projects/blockchain)
+
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # nexus-finance-core
