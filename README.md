@@ -150,6 +150,16 @@
 [![IoTeX Certified](https://img.shields.io/badge/IoTeX%20Certified-00BCD4?style=for-the-badge&logo=iotex&logoColor=white)](https://iotex.io/)
 [![Nervos Network Certified](https://img.shields.io/badge/Nervos%20Certified-9C27B0?style=for-the-badge&logo=nervos&logoColor=white)](https://www.nervos.org/)
 [![Ravencoin Certified](https://img.shields.io/badge/Ravencoin%20Certified-FF4081?style=for-the-badge&logo=ravencoin&logoColor=white)](https://ravencoin.org/)
+[![Holochain Certified](https://img.shields.io/badge/Holochain%20Certified-FF5722?style=for-the-badge&logo=holocoin&logoColor=white)](https://holochain.org/)
+[![Celo Certified](https://img.shields.io/badge/Celo%20Certified-4CAF50?style=for-the-badge&logo=celo&logoColor=white)](https://celo.org/)
+[![Harmony Certified](https://img.shields.io/badge/Harmony%20Certified-00BFFF?style=for-the-badge&logo=harmony&logoColor=white)](https://www.harmony.one/)
+[![Stacks Certified](https://img.shields.io/badge/Stacks%20Certified-3CCBDA?style=for-the-badge&logo=stacks&logoColor=white)](https://www.stacks.co/)
+[![Arweave Certified](https://img.shields.io/badge/Arweave%20Certified-FF9800?style=for-the-badge&logo=arweave&logoColor=white)](https://www.arweave.org/)
+[![Ocean Protocol Certified](https://img.shields.io/badge/Ocean%20Protocol%20Certified-3F51B5?style=for-the-badge&logo=ocean&logoColor=white)](https://oceanprotocol.com/)
+[![Fetch.ai Certified](https://img.shields.io/badge/Fetch.ai%20Certified-9C27B0?style=for-the-badge&logo=fetchai&logoColor=white)](https://fetch.ai/)
+[![Injective Protocol Certified](https://img.shields.io/badge/Injective%20Protocol%20Certified-00BCD4?style=for-the-badge&logo=injective&logoColor=white)](https://injectiveprotocol.com/)
+[![Sora Certified](https://img.shields.io/badge/Sora%20Certified-FF4081?style=for-the-badge&logo=sora&logoColor=white)](https://sora.org/)
+[![Waves Certified](https://img.shields.io/badge/Waves%20Certified-2196F3?style=for-the-badge&logo=waves&logoColor=white)](https://waves.tech/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
