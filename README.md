@@ -120,6 +120,16 @@
 [![Ravencoin Certified](https://img.shields.io/badge/Ravencoin%20Certified-FF4081?style=for-the-badge&logo=ravencoin&logoColor=white)](https://ravencoin.org/)
 [![Zcash Foundation Certified](https://img.shields.io/badge/Zcash%20Foundation%20Certified-8BC34A?style=for-the-badge&logo=zcash&logoColor=white)](https://www.zfnd.org/)
 [![Arweave Certified](https://img.shields.io/badge/Arweave%20Certified-00BCD4?style=for-the-badge&logo=arweave&logoColor=white)](https://www.arweave.org/)
+[![Synthetix Certified](https://img.shields.io/badge/Synthetix%20Certified-0072B1?style=for-the-badge&logo=synthetix&logoColor=white)](https://synthetix.io/)
+[![Yearn Finance Certified](https://img.shields.io/badge/Yearn%20Finance%20Certified-FF9800?style=for-the-badge&logo=yearn&logoColor=white)](https://yearn.finance/)
+[![Aave Certified](https://img.shields.io/badge/Aave%20Certified-4CAF50?style=for-the-badge&logo=aave&logoColor=white)](https://aave.com/)
+[![Compound Certified](https://img.shields.io/badge/Compound%20Certified-3F51B5?style=for-the-badge&logo=compound&logoColor=white)](https://compound.finance/)
+[![Uniswap Certified](https://img.shields.io/badge/Uniswap%20Certified-FF5722?style=for-the-badge&logo=uniswap&logoColor=white)](https://uniswap.org/)
+[![PancakeSwap Certified](https://img.shields.io/badge/PancakeSwap%20Certified-2196F3?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/)
+[![1inch Certified](https://img.shields.io/badge/1inch%20Certified-9C27B0?style=for-the-badge&logo=1inch&logoColor=white)](https://1inch.io/)
+[![Balancer Certified](https://img.shields.io/badge/Balancer%20Certified-FF4081?style=for-the-badge&logo=balancer&logoColor=white)](https://balancer.finance/)
+[![Curve Finance Certified](https://img.shields.io/badge/Curve%20Finance%20Certified-8BC34A?style=for-the-badge&logo=curve&logoColor=white)](https://curve.fi/)
+[![SushiSwap Certified](https://img.shields.io/badge/SushiSwap%20Certified-00BCD4?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
