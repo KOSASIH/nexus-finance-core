@@ -221,6 +221,16 @@
 [![Global Reporting Initiative](https://img.shields.io/badge/Global%20Reporting%20Initiative-FFB300?style=for-the-badge&logo=gri&logoColor=white)](https://www.globalreporting.org/)
 [![Institute of Risk Management](https://img.shields.io/badge/Institute%20of%20Risk%20Management-00BFFF?style=for-the-badge&logo=irm&logoColor=white)](https://www.theirm.org/)
 [![Chartered Institute for Securities & Investment](https://img.shields.io/badge/Chartered%20Institute%20for%20Securities%20%26%20Investment-FF9800?style=for-the-badge&logo=cisi&logoColor=white)](https://www.cisi.org/)
+[![Certified Financial Analyst](https://img.shields.io/badge/Certified%20Financial%20Analyst-4CAF50?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![Financial Risk Management](https://img.shields.io/badge/Financial%20Risk%20Management-FF9800?style=for-the-badge&logo=frm&logoColor=white)](https://www.garp.org/frm)
+[![Certified Investment Analyst](https://img.shields.io/badge/Certified%20Investment%20Analyst-3F51B5?style=for-the-badge&logo=cia&logoColor=white)](https://www.cia.org/)
+[![Certified Valuation Analyst](https://img.shields.io/badge/Certified%20Valuation%20Analyst-00BFFF?style=for-the-badge&logo=cva&logoColor=white)](https://www.nacva.com/)
+[![Financial Planning Specialist](https://img.shields.io/badge/Financial%20Planning%20Specialist-FF5722?style=for-the-badge&logo=fpa&logoColor=white)](https://www.onefpa.org/)
+[![Chartered Institute of Public Finance and Accountancy](https://img.shields.io/badge/Chartered%20Institute%20of%20Public%20Finance%20and%20Accountancy-9C27B0?style=for-the-badge&logo=cipfa&logoColor=white)](https://www.cipfa.org/)
+[![International Association of Financial Engineers](https://img.shields.io/badge/International%20Association%20of%20Financial%20Engineers-3CCBDA?style=for-the-badge&logo=iafe&logoColor=white)](https://www.iafe.org/)
+[![Society of Actuaries](https://img.shields.io/badge/Society%20of%20Actuaries-FFB300?style=for-the-badge&logo=soa&logoColor=white)](https://www.soa.org/)
+[![Chartered Institute of Bankers](https://img.shields.io/badge/Chartered%20Institute%20of%20Bankers-00BFFF?style=for-the-badge&logo=cib&logoColor=white)](https://www.cib.org.uk/)
+[![Institute of Chartered Accountants](https://img.shields.io/badge/Institute%20of%20Chartered%20Accountants-FF9800?style=for-the-badge&logo=icaew&logoColor=white)](https://www.icaew.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
