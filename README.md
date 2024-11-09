@@ -100,6 +100,16 @@
 [![Avalanche Certified](https://img.shields.io/badge/Avalanche%20Certified-FF4081?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network/)
 [![Solana Foundation Certified](https://img.shields.io/badge/Solana%20Foundation%20Certified-8BC34A?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
 [![Algorand Foundation Certified](https://img.shields.io/badge/Algorand%20Foundation%20Certified-00BCD4?style=for-the-badge&logo=algorand&logoColor=white)](https://algorand.foundation/)
+[![Waves Association Certified](https://img.shields.io/badge/Waves%20Association%20Certified-0072B1?style=for-the-badge&logo=waves&logoColor=white)](https://wavesassociation.org/)
+[![Zilliqa Certified](https://img.shields.io/badge/Zilliqa%20Certified-FF9800?style=for-the-badge&logo=zilliqa&logoColor=white)](https://zilliqa.com/)
+[![NEO Certified](https://img.shields.io/badge/NEO%20Certified-4CAF50?style=for-the-badge&logo=neo&logoColor=white)](https://neo.org/)
+[![Ripple Certified](https://img.shields.io/badge/Ripple%20Certified-3F51B5?style=for-the-badge&logo=ripple&logoColor=white)](https://ripple.com/)
+[![Tron Foundation Certified](https://img.shields.io/badge/Tron%20Foundation%20Certified-FF5722?style=for-the-badge&logo=tron&logoColor=white)](https://tron.network/)
+[![EOSIO Certified](https://img.shields.io/badge/EOSIO%20Certified-2196F3?style=for-the-badge&logo=eos&logoColor=white)](https://eos.io/)
+[![VeChain Foundation Certified](https://img.shields.io/badge/VeChain%20Foundation%20Certified-9C27B0?style=for-the-badge&logo=vechain&logoColor=white)](https://www.vechain.org/)
+[![Ontology Certified](https://img.shields.io/badge/Ontology%20Certified-FF4081?style=for-the-badge&logo=ontology&logoColor=white)](https://ont.io/)
+[![Holochain Certified](https://img.shields.io/badge/Holochain%20Certified-8BC34A?style=for-the-badge&logo=holochain&logoColor=white)](https://holochain.org/)
+[![Fantom Certified](https://img.shields.io/badge/Fantom%20Certified-00BCD4?style=for-the-badge&logo=fantom&logoColor=white)](https://fantom.foundation/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
