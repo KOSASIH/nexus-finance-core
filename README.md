@@ -181,6 +181,17 @@
 [![Wanchain Certified](https://img.shields.io/badge/Wanchain%20Certified-FF9800?style=for-the-badge&logo=wanchain&logoColor=white)](https://wanchain.org/)
 [![Rari Capital Certified](https://img.shields.io/badge/Rari%20Capital%20Certified-9C27B0?style=for-the-badge&logo=rari&logoColor=white)](https://rari.capital/)
 
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001%20Certified-FF5722?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001%20Certified-4CAF50?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/iso-27001-information-security.html)
+[![CFA Institute Member](https://img.shields.io/badge/CFA%20Institute%20Member-3F51B5?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![GARP Member](https://img.shields.io/badge/GARP%20Member-00BFFF?style=for-the-badge&logo=garp&logoColor=white)](https://www.garp.org/)
+[![ACCA Approved](https://img.shields.io/badge/ACCA%20Approved-FF9800?style=for-the-badge&logo=acca&logoColor=white)](https://www.accaglobal.com/)
+[![IFC Member](https://img.shields.io/badge/IFC%20Member-9C27B0?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
+[![World Bank Partner](https://img.shields.io/badge/World%20Bank%20Partner-00BFFF?style=for-the-badge&logo=worldbank&logoColor=white)](https://www.worldbank.org/)
+[![IMF Member](https://img.shields.io/badge/IMF%20Member-3CCBDA?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
+[![Fitch Ratings Certified](https://img.shields.io/badge/Fitch%20Ratings%20Certified-FFB300?style=for-the-badge&logo=fitch&logoColor=white)](https://www.fitchratings.com/)
+[![Moody's Certified](https://img.shields.io/badge/Moody's%20Certified-FF5722?style=for-the-badge&logo=moody&logoColor=white)](https://www.moodys.com/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # nexus-finance-core
