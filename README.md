@@ -90,7 +90,16 @@
 [![Blockchain in Transport Alliance Certified](https://img.shields.io/badge/BiTA%20Certified-FF4081?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.bita.studio/)
 [![Decentralized Identity Foundation Certified](https://img.shields.io/badge/DIF%20Certified-8BC34A?style=for-the-badge&logo=blockchain&logoColor=white)](https://identity.foundation/)
 [![World Economic Forum Blockchain Certified](https://img.shields.io/badge/WEF%20Blockchain%20Certified-00BCD4?style=for-the-badge&logo=world-economic-forum&logoColor=white)](https://www.weforum.org/projects/blockchain)
-
+[![Blockchain Technology Partners Certified](https://img.shields.io/badge/BTP%20Certified-0072B1?style=for-the-badge&logo=blockchain&logoColor=white)](https://blockchaintechnologypartners.com/)
+[![Corda Certified](https://img.shields.io/badge/Corda%20Certified-FF9800?style=for-the-badge&logo=corda&logoColor=white)](https://www.corda.net/)
+[![ChainSafe Certified](https://img.shields.io/badge/ChainSafe%20Certified-4CAF50?style=for-the-badge&logo=chainsafe&logoColor=white)](https://chainsafe.io/)
+[![Blockstream Certified](https://img.shields.io/badge/Blockstream%20Certified-3F51B5?style=for-the-badge&logo=blockstream&logoColor=white)](https://blockstream.com/)
+[![Tezos Foundation Certified](https://img.shields.io/badge/Tezos%20Foundation%20Certified-FF5722?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.foundation/)
+[![Cardano Foundation Certified](https://img.shields.io/badge/Cardano%20Foundation%20Certified-2196F3?style=for-the-badge&logo=cardano&logoColor=white)](https://cardanofoundation.org/)
+[![Polkadot Network Certified](https://img.shields.io/badge/Polkadot%20Certified-9C27B0?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.network/)
+[![Avalanche Certified](https://img.shields.io/badge/Avalanche%20Certified-FF4081?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network/)
+[![Solana Foundation Certified](https://img.shields.io/badge/Solana%20Foundation%20Certified-8BC34A?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
+[![Algorand Foundation Certified](https://img.shields.io/badge/Algorand%20Foundation%20Certified-00BCD4?style=for-the-badge&logo=algorand&logoColor=white)](https://algorand.foundation/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
