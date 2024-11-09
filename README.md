@@ -130,6 +130,16 @@
 [![Balancer Certified](https://img.shields.io/badge/Balancer%20Certified-FF4081?style=for-the-badge&logo=balancer&logoColor=white)](https://balancer.finance/)
 [![Curve Finance Certified](https://img.shields.io/badge/Curve%20Finance%20Certified-8BC34A?style=for-the-badge&logo=curve&logoColor=white)](https://curve.fi/)
 [![SushiSwap Certified](https://img.shields.io/badge/SushiSwap%20Certified-00BCD4?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
+[![Algorand Certified](https://img.shields.io/badge/Algorand%20Certified-00BFFF?style=for-the-badge&logo=algorand&logoColor=white)](https://www.algorand.com/)
+[![Cardano Certified](https://img.shields.io/badge/Cardano%20Certified-3CCBDA?style=for-the-badge&logo=cardano&logoColor=white)](https://cardano.org/)
+[![Solana Certified](https://img.shields.io/badge/Solana%20Certified-65B3F0?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
+[![Tezos Certified](https://img.shields.io/badge/Tezos%20Certified-000000?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com/)
+[![Elrond Certified](https://img.shields.io/badge/Elrond%20Certified-3F51B5?style=for-the-badge&logo=elrond&logoColor=white)](https://elrond.com/)
+[![Kava Certified](https://img.shields.io/badge/Kava%20Certified-FFB300?style=for-the-badge&logo=kava&logoColor=white)](https://www.kava.io/)
+[![Zilliqa Certified](https://img.shields.io/badge/Zilliqa%20Certified-FF9800?style=for-the-badge&logo=zilliqa&logoColor=white)](https://zilliqa.com/)
+[![Wanchain Certified](https://img.shields.io/badge/Wanchain%20Certified-4CAF50?style=for-the-badge&logo=wanchain&logoColor=white)](https://wanchain.org/)
+[![NEM Certified](https://img.shields.io/badge/NEM%20Certified-3F51B5?style=for-the-badge&logo=nem&logoColor=white)](https://nem.io/)
+[![Matic Network Certified](https://img.shields.io/badge/Matic%20Network%20Certified-7E57C2?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nexus-finance-core">Nexus Finance</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
